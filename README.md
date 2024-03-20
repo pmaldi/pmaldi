@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmaldi" alt="pmaldi" /></a> </p>
 
-- 🌱 Je suis actuellement en train d'apprendre **React.JS, Nuxt.JS, Redux**
+- 🌱 Je suis actuellement en train d'apprendre **React, NextJS**
 
 - 📫 Vous pouvez me contacter par email **patrice@pandit.fr**
 
